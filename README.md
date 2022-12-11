@@ -1,6 +1,6 @@
 # enjoyacc
 
-A new Flutter project.
+Very simple acceleration viewer app of smart phone
 
 ## Getting Started
 
